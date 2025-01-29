@@ -4,7 +4,7 @@ I'm Rian Febriansyah, Lua Developer Not a Content Creator.
 
 ![Discord Presence](https://discord.c99.nl/widget/theme-3/1277628857981075579.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&pause=1000&color=7629F7&random=false&width=435&lines=Hello%2C+Im+Rian+Febriansyah!;LuaU+Developer;14+y.o+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&pause=1000&color=7629F7&random=false&width=435&lines=Hello%2C+Im+Arcaner!;LuaU+Developer;14+y.o+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
 
 ### About Me
 
